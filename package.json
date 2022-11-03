@@ -28,7 +28,7 @@
     "nuxt": "^2.15.8",
     "nuxt-matomo": "^1.2.4",
     "vuelidate": "^0.7.7",
-    "web3": "^1.7.5",
+    "web3": "^1.8.0",
     "pnp-webpack-plugin": "^1.6.4"
   },
   "devDependencies": {
